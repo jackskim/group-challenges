@@ -81,3 +81,6 @@ typings/
 
 # vim files
 *.swp
+
+# macOS
+.DS_Store
